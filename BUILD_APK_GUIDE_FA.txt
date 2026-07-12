@@ -1,0 +1,16 @@
+راهنمای سریع ساخت APK
+=====================
+
+روش ساده با Android Studio:
+1) پوشه پروژه را Extract کنید.
+2) Android Studio را باز کنید.
+3) روی Open بزنید و پوشه RaghamAndroid را انتخاب کنید.
+4) صبر کنید دانلود ابزارها و Gradle Sync تمام شود.
+5) از منوی Build گزینه Build APK(s) را انتخاب کنید.
+6) فایل نهایی: app\build\outputs\apk\debug\app-debug.apk
+
+روش GitHub:
+1) کل پروژه را در یک Repository بارگذاری کنید.
+2) در GitHub وارد Actions شوید.
+3) Build Android APK را اجرا کنید.
+4) فایل APK را از Artifacts دانلود کنید.

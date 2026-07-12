@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نرم افزار رقم</string>
+    <string name="server_dialog_title">آدرس سرور نرم افزار رقم</string>
+    <string name="server_dialog_message">آدرس کامل سرور را وارد کنید؛ نمونه: http://192.168.1.20:8080 یا https://ragham.example.com</string>
+    <string name="save_connect">ذخیره و اتصال</string>
+    <string name="cancel">انصراف</string>
+    <string name="refresh">تازه‌سازی</string>
+    <string name="change_server">تغییر آدرس سرور</string>
+    <string name="open_browser">بازکردن در مرورگر</string>
+    <string name="logout">خروج از حساب</string>
+</resources>
